@@ -1,0 +1,695 @@
+@media screen and (max-width:1023px) {
+
+    /* SECTION ONE */
+    .logo {
+        font-size: 26px;
+    }
+
+    .navigation a {
+        font-size: 16px;
+    }
+
+    .bannertext {
+        width: 36%;
+    }
+
+    .banner h1 {
+        font-size: 36px;
+    }
+
+    .banner p {
+        font-size: 16px;
+    }
+
+    .banner button {
+        font-size: 16px;
+        padding: 15px 35px;
+    }
+
+    /* SECTION TWO */
+    .SectionTwo h2 {
+        font-size: 30px;
+
+    }
+
+    .SectionTwo .principle {
+        height: 75%;
+        width: 33%;
+    }
+
+    .SectionTwo .variety {
+        margin: 0 20px;
+    }
+
+    .SectionTwo p {
+        color: #969696;
+        margin-top: 10px;
+        margin-left: 10px;
+        font-size: 15px;
+    }
+
+    /* SECTION FOUR */
+    .sectionfour .title {
+        width: 100%;
+    }
+
+    .sectionfour .menu {
+        justify-content: space-around;
+    }
+
+    .sectionfour h2 {
+        font-size: 28px;
+    }
+
+    .menu .item {
+        height: 70%;
+        width: 32%;
+    }
+
+    .sectionfour .weeklyclassic {
+        margin: 0;
+        background-image: url(/images/weekly_classic.webp);
+    }
+
+    .sectionfour button {
+        font-size: 16px;
+        margin-bottom: 30px;
+    }
+
+    /* SECTION FIVE */
+
+    .sectionfive .handle {
+        width: 50%;
+
+    }
+
+    .sectionfive .logo {
+        height: 40px;
+    }
+
+    .sectionfive .image {
+        height: 42%;
+    }
+
+    .sectionfive .face {
+        height: 100%;
+        width: 22%;
+
+    }
+
+    .sectionfive .imagetext {
+        font-size: 18px;
+    }
+
+    .sectionfive .review {
+        font-size: 18px;
+    }
+
+    .sectionfive .pic {
+        height: 22px;
+        width: 70px;
+        margin-bottom: -5px;
+    }
+
+    /* SECTION SIX */
+    .sectionsix .newsletter {
+        height: 60%;
+        width: 85%;
+        padding: 0;
+
+    }
+
+    .sectionsix h2 {
+        font-size: 25px;
+        font-weight: 600;
+        margin-top: 25px;
+        color: #4b4b4b;
+    }
+
+    .sectionsix p {
+        padding-top: 20px;
+        font-size: 15px;
+        font-weight: 400;
+        color: #9d9d9d;
+        margin-bottom: 15px;
+    }
+
+    .sectionsix label {
+        font-size: 14px;
+        font-weight: 600;
+        margin-left: -330px;
+    }
+
+    .sectionsix input {
+        height: 51px;
+        width: 48%;
+    }
+
+    .sectionsix .subscription {
+        height: 25%;
+        width: 100%;
+        /* background-color: aqua; */
+        margin-bottom: 80px;
+
+    }
+
+    .subscription p {
+        font-size: 12px;
+    }
+
+    /* SECTION SEVEN */
+    .sectionseven {
+        height: 60vh;
+    }
+
+    .sectionseven h4 {
+        font-size: 25px;
+        font-weight: 700;
+        padding-top: 20px;
+    }
+
+    .sectionseven input {
+        height: 40px;
+        width: 220px;
+        border-right-style: none;
+
+
+    }
+
+    .sectionseven i {
+        font-size: 16px;
+        color: #f6ad01;
+    }
+
+    .google img {
+        height: 20px;
+        width: 40px;
+        margin-left: -10px;
+    }
+
+    .footer h4 {
+        font-size: 15px;
+        font-weight: 400;
+    }
+
+    .sectionseven button {
+        height: 46px;
+        width: 90px;
+
+    }
+
+
+}
+
+@media screen and (max-width:728px) {
+    /* SECTION ONE */
+
+    .logo {
+        font-size: 26px;
+        margin-left: 20px;
+    }
+
+    .navigation a {
+        font-size: 15px;
+        margin-right: 5px;
+    }
+
+    .navigation button {
+        margin-right: 5px;
+        font-size: 12px;
+        padding: 12px 20px;
+    }
+
+    .bannertext {
+        width: 40%;
+    }
+
+    .banner p {
+        font-size: 16px;
+    }
+
+    /* SECTION TWO */
+    .SectionTwo h2 {
+        font-size: 23px;
+    }
+
+    .principle .h3 {
+        font-size: 20px;
+    }
+
+    .SectionTwo .variety {
+        margin: 0 10px;
+    }
+
+    .principle .p {
+
+        font-size: 14px;
+    }
+
+    /* SECTION THREE */
+    .SectionThree .imagetext {
+        height: 60%;
+        width: 80%;
+        /* margin: 50px 10%; */
+        /* background-color: aqua; */
+    }
+
+    .SectionThree h2 {
+        font-size: 30px;
+    }
+
+    .SectionThree p {
+        font-size: 16px;
+    }
+
+    .SectionThree button {
+        font-size: 15px;
+        font-weight: 600;
+        padding: 15px 30px;
+    }
+
+    /* SECTION FOUR */
+    .sectionfour .title {
+
+        width: 100%;
+    }
+
+    .sectionfour h2 {
+        font-size: 25px;
+    }
+
+    .sectionfour p {
+        font-size: 16px;
+    }
+
+    /* SECTION FIVE */
+    .sectionfive .handle {
+        margin-top: -30px;
+        padding-bottom: 10px;
+        /* background-color: aqua; */
+        height: 15%;
+        width: 40%;
+    }
+
+    .sectionfive .logo {
+        margin-bottom: -10px;
+        height: 40px;
+        width: 40px;
+    }
+
+    .handle p {
+        font-size: 38px;
+    }
+
+    .sectionfive .face {
+
+        width: 24%;
+    }
+
+    .image .second {
+        margin-left: 10px;
+
+    }
+
+    .image .third {
+        margin-left: 10px;
+
+    }
+
+    .image .fourth {
+        margin-left: 10px;
+
+    }
+
+    /* SECTION SIX */
+
+    .sectionsix .newsletter {
+        height: 60%;
+        width: 100%;
+    }
+
+    .sectionsix h2 {
+        font-size: 26px;
+    }
+
+    .sectionsix p {
+        font-size: 13px;
+    }
+
+    .sectionsix label {
+        font-size: 13px;
+    }
+
+    .sectionsix input {
+        margin-left: 100px;
+        height: 51px;
+        width: 50%;
+    }
+
+    .sectionsix .subscription {
+        height: 25%;
+        width: 100%;
+    }
+
+    .subscription p {
+        font-size: 10px;
+    }
+
+    /* SECTION SEVEN */
+
+    .sectionseven h4 {
+        font-size: 25px;
+        padding-bottom: 20px;
+
+    }
+
+    .sectionseven h5 {
+        font-size: 13px;
+    }
+
+    .sectionseven .content {
+        margin-bottom: -100px;
+    }
+
+    .sectionseven p {
+        font-size: 12px;
+    }
+
+    .sectionseven .mail {
+        margin-bottom: -50px;
+    }
+
+    .sectionseven label {
+        font-size: 12px;
+    }
+
+    .sectionseven input {
+        height: 33px;
+        width: 95px;
+    }
+
+    .sectionseven button {
+        height: 36px;
+        width: 85px;
+        font-size: 12px;
+    }
+
+    .sectionseven .reviews {
+        height: 40%;
+        margin-bottom: -30px;
+
+        /* background-color: aqua; */
+        width: 100%;
+    }
+
+    .sectionseven .mail {
+        /* margin-top: -20px; */
+        height: 80%;
+        width: 40%;
+        /* background-color: #f6ad01; */
+        padding-left: 80px;
+    }
+
+    .sectionseven .google {
+        padding-left: 20px;
+        height: 90%;
+        width: 35%;
+        margin-bottom: -30px;
+        /* background-color: fuchsia; */
+    }
+
+    .google p {
+        font-size: 13px;
+        padding-top: 50px;
+    }
+
+    .sectionseven i {
+        font-size: 13px;
+    }
+
+    .google img {
+        height: 23px;
+        width: 40px;
+    }
+
+    .sectionseven a {
+        font-size: 13px;
+    }
+
+    .links i {
+        height: 35px;
+        width: 20px;
+    }
+
+    .sectionseven .links {
+        margin-bottom: -40px;
+    }
+
+    .footer h4 {
+        font-size: 13px;
+    }
+
+    .footer p {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width:600px) {
+
+    /* SECTION ONE */
+    .logo {
+        font-size: 30px;
+        font-weight: 800px;
+        /* background-color: #f6ad01; */
+
+    }
+
+    .navigation {
+        display: none;
+    }
+
+    .navbar {
+        /* background-color: aqua; */
+        justify-content: center;
+    }
+
+    .bannertext {
+        width: 70%;
+        text-align: center;
+    }
+
+    /* SECTION TWO */
+    .SectionTwo {
+        height: 160vh;
+
+    }
+
+    .SectionTwo .title {
+        height: 15%;
+        width: 100%;
+    }
+
+    .SectionTwo .content {
+        height: 85%;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+
+    .SectionTwo .principle {
+        height: 60%;
+        width: 45%;
+        margin: 0;
+        /* background-color: #f6ad01; */
+    }
+
+    .SectionTwo h2 {
+        margin-top: 10px;
+        font-size: 34px;
+    }
+
+    .principle .image {
+        height: 40%;
+    }
+
+    .principle .imagedescription {
+        height: 40%;
+        margin: 0;
+    }
+
+    .SectionTwo p {
+        font-size: 16px;
+    }
+
+    .title p {
+        width: 75%;
+        font-size: 16px;
+        text-align: center;
+        /* padding-bottom: 20px; */
+    }
+
+    /* SECTION FOUR */
+    .sectionfour .title {
+        height: 35%;
+        width: 100%;
+        text-align: center;
+    }
+
+    .sectionfour h2 {
+        font-size: 20px;
+        padding-top: 20px;
+    }
+
+    .title p {
+        font-size: 16px;
+        /* background-color: #f6ad01; */
+        width: 80%;
+        margin-left: 50px;
+        padding: 0 30px;
+
+    }
+    .sectionfour .menu {
+        height: 50%;
+        width: 90%;
+        display: flex;
+        justify-content: space-around;
+    }
+    
+    
+
+
+    .sectionfour button {
+        margin-bottom: 50px;
+    }
+
+    /* SECTION FIVE */
+    .sectionfive .handle {
+        height: 15%;
+        width: 100%;
+
+
+    }
+
+    .sectionfive .logo {
+        height: 40px;
+        width: 40px;
+
+    }
+
+    .handle p {
+        font-size: 38px;
+    }
+
+    .sectionfive .image {
+
+     display: block;
+     
+        
+    }
+
+    .sectionfive .face {
+        float: left;
+        height: 50%;
+        width: 50%;
+        margin: 0;
+        background-position:top;
+        background-size: cover;
+
+        /* background-color: aquamarine; */
+
+    }
+
+    .sectionfive .imagetext {
+        font-size: 16px;
+    }
+    /* SECTION SIX */
+    .sectionsix{
+        background-image: url(/images/background6.webp);
+        background-position: center;
+        background-size:cover;
+        background-repeat: no-repeat;
+    }
+    .sectionsix .newsletter {
+        height: 50%;
+        width: 80%;
+        padding: 10px 5px;
+    }
+    .sectionsix h2 {
+        font-size: 20px;
+    }
+    .sectionsix .score {
+        width: 100%;
+        /* background-color: aquamarine; */
+    }
+    .sectionsix label {
+        font-size: 12px;
+        margin-left: -150px;
+
+    }
+    .sectionsix input {
+        height: 41px;
+        width: 40%;
+    margin-left: 30px;
+}
+.sectionsix button {
+    height: 45px;
+    padding: 10px 10px;
+
+}
+.subscription p {
+    font-size: 8px;
+    padding: 30px 5px;
+}
+
+
+/* SECTION SEVEN */
+.sectionseven{
+    height: 80vh;
+}
+.sectionseven .content,
+.sectionseven .reviews {
+    height: 40%;
+    width: 100%;
+}
+
+.sectionseven .mail {
+    width: 60%;
+    /* background-color: aquamarine; */
+
+    
+
+}
+.sectionseven label{
+    margin-left: -70px;
+}
+.sectionseven input {
+    height: 31px;
+    width: 60%;
+    margin-left:  -70px;
+    
+}
+.sectionseven button {
+    height: 35px;
+    width: 80px;
+    padding: 12px;
+    font-size: 11px;
+    /* margin-top: -30px; */
+
+}
+.sectionseven .google{
+    /* background-color: cadetblue; */
+}
+.sectionseven .links{
+    /* background-color:aquamarine; */
+    width: 33%;
+    height: 40%;
+    margin-bottom: 50px;
+    
+}
+.sectionseven .fa{
+    height: 60px;
+}
+.footer{
+
+/* background-color: brown; */
+}
+}
